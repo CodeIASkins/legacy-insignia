@@ -1,0 +1,555 @@
+[
+  {
+    "id": "nexus",
+    "label": "Nexo",
+    "group": true,
+    "unicode": "e900",
+    "redesigned": true
+  },
+  {
+    "id": "sentinel",
+    "label": "Sentinela",
+    "group": true,
+    "unicode": "e901",
+    "redesigned": true
+  },
+  {
+    "id": "beacon",
+    "label": "Sinalizador",
+    "group": true,
+    "unicode": "e902",
+    "redesigned": true
+  },
+  {
+    "id": "spark",
+    "label": "Primeira centelha",
+    "group": true,
+    "unicode": "e903",
+    "redesigned": true
+  },
+  {
+    "id": "echo",
+    "label": "Eco",
+    "group": true,
+    "unicode": "e904",
+    "redesigned": true
+  },
+  {
+    "id": "helix",
+    "label": "Gene extraordinário",
+    "group": true,
+    "unicode": "e905",
+    "redesigned": true
+  },
+  {
+    "id": "resolve",
+    "label": "Vontade humana",
+    "group": true,
+    "unicode": "e906",
+    "redesigned": true
+  },
+  {
+    "id": "aegis",
+    "label": "Égide amazona",
+    "group": true,
+    "unicode": "e907",
+    "redesigned": true
+  },
+  {
+    "id": "solar",
+    "label": "Herança solar",
+    "group": true,
+    "unicode": "e908",
+    "redesigned": true
+  },
+  {
+    "id": "ascendant",
+    "label": "Ascendência divina",
+    "group": true,
+    "unicode": "e909",
+    "redesigned": true
+  },
+  {
+    "id": "sigil",
+    "label": "Selo arcano",
+    "group": true,
+    "unicode": "e90a",
+    "redesigned": true
+  },
+  {
+    "id": "circuit",
+    "label": "Núcleo cibernético",
+    "group": true,
+    "unicode": "e90b",
+    "redesigned": true
+  },
+  {
+    "id": "fusion",
+    "label": "Fusão de origens",
+    "group": true,
+    "unicode": "e90c",
+    "redesigned": true
+  },
+  {
+    "id": "home",
+    "label": "Início",
+    "group": false,
+    "unicode": "e90d",
+    "redesigned": true
+  },
+  {
+    "id": "search",
+    "label": "Pesquisa",
+    "group": false,
+    "unicode": "e90e",
+    "redesigned": true
+  },
+  {
+    "id": "users",
+    "label": "Membros",
+    "group": false,
+    "unicode": "e90f",
+    "redesigned": true
+  },
+  {
+    "id": "groups",
+    "label": "Grupos",
+    "group": false,
+    "unicode": "e910",
+    "redesigned": true
+  },
+  {
+    "id": "mail",
+    "label": "Mensagens",
+    "group": false,
+    "unicode": "e911",
+    "redesigned": true
+  },
+  {
+    "id": "bell",
+    "label": "Notificações",
+    "group": false,
+    "unicode": "e912",
+    "redesigned": true
+  },
+  {
+    "id": "switch",
+    "label": "Troca de contas",
+    "group": false,
+    "unicode": "e913",
+    "redesigned": false
+  },
+  {
+    "id": "arrow",
+    "label": "Avançar",
+    "group": false,
+    "unicode": "e914",
+    "redesigned": true
+  },
+  {
+    "id": "down",
+    "label": "Explorar",
+    "group": false,
+    "unicode": "e915",
+    "redesigned": true
+  },
+  {
+    "id": "left",
+    "label": "Voltar",
+    "group": false,
+    "unicode": "e916",
+    "redesigned": true
+  },
+  {
+    "id": "check",
+    "label": "Confirmar",
+    "group": false,
+    "unicode": "e917",
+    "redesigned": true
+  },
+  {
+    "id": "close",
+    "label": "Fechar",
+    "group": false,
+    "unicode": "e918",
+    "redesigned": true
+  },
+  {
+    "id": "plus",
+    "label": "Adicionar",
+    "group": false,
+    "unicode": "e919",
+    "redesigned": true
+  },
+  {
+    "id": "minus",
+    "label": "Remover",
+    "group": false,
+    "unicode": "e91a",
+    "redesigned": true
+  },
+  {
+    "id": "edit",
+    "label": "Editar",
+    "group": false,
+    "unicode": "e91b",
+    "redesigned": true
+  },
+  {
+    "id": "reply",
+    "label": "Responder",
+    "group": false,
+    "unicode": "e91c",
+    "redesigned": true
+  },
+  {
+    "id": "quote",
+    "label": "Citar",
+    "group": false,
+    "unicode": "e91d",
+    "redesigned": true
+  },
+  {
+    "id": "file",
+    "label": "Documento",
+    "group": false,
+    "unicode": "e91e",
+    "redesigned": true
+  },
+  {
+    "id": "book",
+    "label": "Arquivo",
+    "group": false,
+    "unicode": "e91f",
+    "redesigned": true
+  },
+  {
+    "id": "calendar",
+    "label": "Eventos",
+    "group": false,
+    "unicode": "e920",
+    "redesigned": true
+  },
+  {
+    "id": "pin",
+    "label": "Localização",
+    "group": false,
+    "unicode": "e921",
+    "redesigned": true
+  },
+  {
+    "id": "globe",
+    "label": "Terra",
+    "group": false,
+    "unicode": "e922",
+    "redesigned": false
+  },
+  {
+    "id": "orbit",
+    "label": "Universo além",
+    "group": false,
+    "unicode": "e923",
+    "redesigned": false
+  },
+  {
+    "id": "city",
+    "label": "Metrópole",
+    "group": false,
+    "unicode": "e924",
+    "redesigned": false
+  },
+  {
+    "id": "sword",
+    "label": "Conflito",
+    "group": false,
+    "unicode": "e925",
+    "redesigned": true
+  },
+  {
+    "id": "mask",
+    "label": "Vigilante",
+    "group": false,
+    "unicode": "e926",
+    "redesigned": true
+  },
+  {
+    "id": "bolt",
+    "label": "Velocidade",
+    "group": false,
+    "unicode": "e927",
+    "redesigned": true
+  },
+  {
+    "id": "portal",
+    "label": "Portal",
+    "group": false,
+    "unicode": "e928",
+    "redesigned": false
+  },
+  {
+    "id": "eye",
+    "label": "Visualizar",
+    "group": false,
+    "unicode": "e929",
+    "redesigned": true
+  },
+  {
+    "id": "lock",
+    "label": "Bloqueado",
+    "group": false,
+    "unicode": "e92a",
+    "redesigned": true
+  },
+  {
+    "id": "unlock",
+    "label": "Desbloqueado",
+    "group": false,
+    "unicode": "e92b",
+    "redesigned": false
+  },
+  {
+    "id": "flag",
+    "label": "Anúncio",
+    "group": false,
+    "unicode": "e92c",
+    "redesigned": true
+  },
+  {
+    "id": "menu",
+    "label": "Menu",
+    "group": false,
+    "unicode": "e92d",
+    "redesigned": true
+  },
+  {
+    "id": "convergence",
+    "label": "Convergência",
+    "group": false,
+    "unicode": "e92e",
+    "redesigned": false
+  },
+  {
+    "id": "telepathy",
+    "label": "Telepatia",
+    "group": false,
+    "unicode": "e92f",
+    "redesigned": false
+  },
+  {
+    "id": "telekinesis",
+    "label": "Telecinese",
+    "group": false,
+    "unicode": "e930",
+    "redesigned": false
+  },
+  {
+    "id": "flight",
+    "label": "Voo",
+    "group": false,
+    "unicode": "e931",
+    "redesigned": false
+  },
+  {
+    "id": "storm",
+    "label": "Tempestade",
+    "group": false,
+    "unicode": "e932",
+    "redesigned": false
+  },
+  {
+    "id": "web",
+    "label": "Trama aracnídea",
+    "group": false,
+    "unicode": "e933",
+    "redesigned": false
+  },
+  {
+    "id": "energy",
+    "label": "Projeção de energia",
+    "group": false,
+    "unicode": "e934",
+    "redesigned": false
+  },
+  {
+    "id": "forcefield",
+    "label": "Campo de força",
+    "group": false,
+    "unicode": "e935",
+    "redesigned": false
+  },
+  {
+    "id": "chat",
+    "label": "Conversas",
+    "group": false,
+    "unicode": "e936",
+    "redesigned": true
+  },
+  {
+    "id": "save",
+    "label": "Salvar",
+    "group": false,
+    "unicode": "e937",
+    "redesigned": false
+  },
+  {
+    "id": "download",
+    "label": "Baixar",
+    "group": false,
+    "unicode": "e938",
+    "redesigned": false
+  },
+  {
+    "id": "upload",
+    "label": "Importar",
+    "group": false,
+    "unicode": "e939",
+    "redesigned": false
+  },
+  {
+    "id": "image",
+    "label": "Imagem",
+    "group": false,
+    "unicode": "e93a",
+    "redesigned": false
+  },
+  {
+    "id": "link",
+    "label": "Vínculo",
+    "group": false,
+    "unicode": "e93b",
+    "redesigned": false
+  },
+  {
+    "id": "gear",
+    "label": "Ajustes",
+    "group": false,
+    "unicode": "e93c",
+    "redesigned": false
+  },
+  {
+    "id": "heart",
+    "label": "Reação",
+    "group": false,
+    "unicode": "e93d",
+    "redesigned": true
+  },
+  {
+    "id": "star",
+    "label": "Destaque",
+    "group": false,
+    "unicode": "e93e",
+    "redesigned": true
+  },
+  {
+    "id": "dice",
+    "label": "Dados",
+    "group": false,
+    "unicode": "e93f",
+    "redesigned": false
+  },
+  {
+    "id": "trophy",
+    "label": "Conquista",
+    "group": false,
+    "unicode": "e940",
+    "redesigned": true
+  },
+  {
+    "id": "moon",
+    "label": "Modo escuro",
+    "group": false,
+    "unicode": "e941",
+    "redesigned": false
+  },
+  {
+    "id": "sun",
+    "label": "Modo claro",
+    "group": false,
+    "unicode": "e942",
+    "redesigned": false
+  },
+  {
+    "id": "user",
+    "label": "Perfil",
+    "group": false,
+    "unicode": "e943",
+    "redesigned": true
+  },
+  {
+    "id": "logout",
+    "label": "Sair",
+    "group": false,
+    "unicode": "e944",
+    "redesigned": false
+  },
+  {
+    "id": "clock",
+    "label": "Atividade",
+    "group": false,
+    "unicode": "e945",
+    "redesigned": false
+  },
+  {
+    "id": "shield",
+    "label": "Proteção",
+    "group": false,
+    "unicode": "e946",
+    "redesigned": true
+  },
+  {
+    "id": "bag",
+    "label": "Inventário",
+    "group": false,
+    "unicode": "e947",
+    "redesigned": true
+  },
+  {
+    "id": "code",
+    "label": "Código",
+    "group": false,
+    "unicode": "e948",
+    "redesigned": false
+  },
+  {
+    "id": "bold",
+    "label": "Negrito",
+    "group": false,
+    "unicode": "e949",
+    "redesigned": false
+  },
+  {
+    "id": "italic",
+    "label": "Itálico",
+    "group": false,
+    "unicode": "e94a",
+    "redesigned": false
+  },
+  {
+    "id": "list",
+    "label": "Lista",
+    "group": false,
+    "unicode": "e94b",
+    "redesigned": false
+  },
+  {
+    "id": "filter",
+    "label": "Filtrar",
+    "group": false,
+    "unicode": "e94c",
+    "redesigned": false
+  },
+  {
+    "id": "help",
+    "label": "Ajuda",
+    "group": false,
+    "unicode": "e94d",
+    "redesigned": false
+  },
+  {
+    "id": "refresh",
+    "label": "Atualizar",
+    "group": false,
+    "unicode": "e94e",
+    "redesigned": false
+  }
+]
